@@ -1,0 +1,2 @@
+# gigguard
+AI-Powered Parametric Insurance for Gig Workers
